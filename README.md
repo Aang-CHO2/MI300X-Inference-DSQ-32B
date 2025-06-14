@@ -27,4 +27,5 @@ In short: the MI300X is a powerhouse, and SR-IOV lets us use it flexibly and eff
 - ROCm-enabled PyTorch (Install Guide)
 - Transformers library (pip install transformers)
 - DeepSeek-R1-Distill-Qwen-32B model downloaded locally from [Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B)
+- [Python Script](https://github.com/dumroo/MI300X-Inference-DSQ-32B/blob/main/DSQ-32B_Inference.py) for inference 
 
