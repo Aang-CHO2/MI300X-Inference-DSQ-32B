@@ -82,12 +82,12 @@ With a whopping 192GB of HBM3 memory and 304 compute units, the MI300X is built 
 
 ## 🏁 Quick Start: Commands
 Clone the repository
-git clone https://github.com/dumroo/MI300X-Inference-DSQ-32B.git cd MI300X-Inference-DSQ-32B
-Download the model (inside the script or manually)
-Run in chat mode
-python3 DSQ-32B_Inference.py –mode chat
-Run in batch mode
-python3 DSQ-32B_Inference.py –mode batch –input_file prompts.txt –output_file completions.txt
+- git clone https://github.com/dumroo/MI300X-Inference-DSQ-32B.git - cd MI300X-Inference-DSQ-32B
+- Download the model (inside the script or manually)
+- Run in chat mode
+  -- python3 DSQ-32B_Inference.py –mode chat
+- Run in batch mode
+  -- python3 DSQ-32B_Inference.py –mode batch –input_file prompts.txt –output_file completions.txt
 
 
 ---
