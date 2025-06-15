@@ -25,9 +25,9 @@ At its core, MI300X-Inference-DSQ-32B is a command-line tool that lets you inter
 - The DeepSeek-R1-Distill-Qwen-32B model from Hugging Face
 
 **Quick Setup Steps:**
-1. **Install ROCm 6.4** and the GIM driver on your host machine.
+1. **Install GIM driver on your host machine.
 2. **Assign 2 VFs** to your VM using SR-IOV.
-3. Inside the VM, install **PyTorch** and **Transformers** (make sure they’re ROCm-enabled).
+3. Inside the VM, install **ROCm6.4, **PyTorch** and **Transformers** (make sure they’re ROCm-enabled).
 4. Clone the repo and download the model weights.
 
 ---
