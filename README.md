@@ -29,3 +29,16 @@ In short: the MI300X is a powerhouse, and SR-IOV lets us use it flexibly and eff
 - DeepSeek-R1-Distill-Qwen-32B model downloaded locally from [Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B)
 - [Python Script](https://github.com/dumroo/MI300X-Inference-DSQ-32B/blob/main/DSQ-32B_Inference.py) for inference 
 
+**Screenshots for reference**
+
+- Running the script_intial outcome
+
+![Running the script_intial outcome](Screenshot1.png)
+
+- Chat Interface
+
+![Chat Interface](Screenshot2.png)
+
+- Intial reponse 
+
+![Intial reponse](Screenshot3.png)
